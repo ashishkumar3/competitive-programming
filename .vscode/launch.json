@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BalancedArray",
+            "request": "launch",
+            "mainClass": "BalancedArray",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewProg",
+            "request": "launch",
+            "mainClass": "NewProg",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuyAShovel",
+            "request": "launch",
+            "mainClass": "BuyAShovel",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewYear",
+            "request": "launch",
+            "mainClass": "NewYear",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinHeapKthSmallest",
+            "request": "launch",
+            "mainClass": "MinHeapKthSmallest",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinHeap",
+            "request": "launch",
+            "mainClass": "MinHeap",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch TempArr",
+            "request": "launch",
+            "mainClass": "TempArr",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleOnk",
+            "request": "launch",
+            "mainClass": "BubbleOnk",
+            "projectName": "competitive-programming_5f026bef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rev",
+            "request": "launch",
+            "mainClass": "Rev",
+            "projectName": "java_3d51dd4e"
+        }
+    ]
+}

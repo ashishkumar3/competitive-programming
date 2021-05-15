@@ -1,4 +1,3 @@
-package KthSmallestNumber;
 
 public class On2 {
     

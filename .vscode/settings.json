@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "codeforces/NumberTheory",
+        "KthSmallestNumber",
+        "KLargestNumbers",
+        "codeforces/Something"
+    ]
+}

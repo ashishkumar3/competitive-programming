@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="codeforces/Something/|KLargestNumbers/|codeforces/NumberTheory/|KthSmallestNumber/" kind="src" path=""/>
+	<classpathentry kind="src" path="codeforces/NumberTheory"/>
+	<classpathentry kind="src" path="codeforces/Something"/>
+	<classpathentry kind="src" path="KLargestNumbers"/>
+	<classpathentry kind="src" path="KthSmallestNumber"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
