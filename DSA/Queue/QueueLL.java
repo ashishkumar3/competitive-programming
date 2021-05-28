@@ -18,25 +18,24 @@ public class QueueLL {
     }
 
     void enqueue(int key) {
-
+        Node temp = new Node(key);
+        if(this.rear == null) {
+            this.front = this.rear = temp;
+            return;
+        }
+        this.rear.next = temp;
+        this.rear = temp;
+    }
+    
+    void dequeue() {
+        if(this.front == null) return;
+        Node temp = this.front;
+        this.front = this.front.next;
+        if(this.front == null) this.rear = null;
+    }
     
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();
-        int n;
 
-        while(t-- > 0) {
-            n = sc.nextInt();
-
-            System.out.println(solve(n));
-        }
-
-        sc.close();
-    }
-
-    public static int solve(int n) {
-
-        return 0;
     }
 }
 
